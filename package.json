@@ -9,7 +9,10 @@
     "type": "git",
     "url": "https://github.com/rtmatt/rt-upload-buttons"
   },
-  "author": "Matt Emrick <matt@redtrainwebservices.com>",
+  "author": {
+    "name": "Matt Emrick",
+    "email": "matt@redtrainwebservices.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/rtmatt/rt-upload-buttons/issues"
