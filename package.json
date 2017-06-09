@@ -1,0 +1,88 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "rt-upload-buttons",
+        "scope": null,
+        "escapedName": "rt-upload-buttons",
+        "name": "rt-upload-buttons",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/mattemrick/Code/studioc/vendor/designledge/admin"
+    ]
+  ],
+  "_from": "rt-upload-buttons@latest",
+  "_id": "rt-upload-buttons@0.0.0",
+  "_inCache": true,
+  "_location": "/rt-upload-buttons",
+  "_nodeVersion": "4.2.3",
+  "_npmOperationalInternal": {
+    "host": "packages-6-west.internal.npmjs.com",
+    "tmp": "tmp/rt-upload-buttons-0.0.0.tgz_1455325139755_0.9765276429243386"
+  },
+  "_npmUser": {
+    "name": "rtmatt",
+    "email": "matt@redtrainwebservices.com"
+  },
+  "_npmVersion": "2.14.7",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "rt-upload-buttons",
+    "scope": null,
+    "escapedName": "rt-upload-buttons",
+    "name": "rt-upload-buttons",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/rt-upload-buttons/-/rt-upload-buttons-0.0.0.tgz",
+  "_shasum": "172a4fd75ce83c6fc449ad6254a3ace4a3d0667b",
+  "_shrinkwrap": null,
+  "_spec": "rt-upload-buttons",
+  "_where": "/Users/mattemrick/Code/studioc/vendor/designledge/admin",
+  "author": {
+    "name": "Matt Emrick",
+    "email": "matt@redtrainwebservices.com"
+  },
+  "bugs": {
+    "url": "https://github.com/rtmatt/rt-upload-buttons/issues"
+  },
+  "dependencies": {},
+  "description": "Pretty file upload buttons",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-uglify": "^1.5.2"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "172a4fd75ce83c6fc449ad6254a3ace4a3d0667b",
+    "tarball": "https://registry.npmjs.org/rt-upload-buttons/-/rt-upload-buttons-0.0.0.tgz"
+  },
+  "gitHead": "2cdf9a8098475b9d5869dd3afe93fe81b73eb632",
+  "homepage": "https://github.com/rtmatt/rt-upload-buttons#readme",
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "rtmatt",
+      "email": "matt@redtrainwebservices.com"
+    }
+  ],
+  "name": "rt-upload-buttons",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtmatt/rt-upload-buttons.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.0"
+}
